@@ -1,0 +1,20 @@
+
+Excel 
+COLUMN ROWS RANDOM
+Color the header 
+sum using condition
+if  using condition
+v_look up using condition
+
+Select the whole table
+Select 1st row and enter ctrl T
+conditional formatting
+
+KPI'S
+Key Performance Indicators By Clients...!
+Kpis's must be in data set, if not create in the data sets
+
+pivot table 
+dashboard
+
+
